@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculateDistance</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="clear">Clear</string>
+</resources>
